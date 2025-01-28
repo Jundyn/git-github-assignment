@@ -1,0 +1,9 @@
+My name is Junaid Omotade
+One interesting fact about me is that I’m gentle and dislike argumen.
+What I’d hope to learn in this course:
+1. Best Practices in Development: How to design, write, and maintain clean, efficient, and scalable code.
+2. Team Collaboration: How to work effectively in teams using tools like Git, Agile methodologies, and code reviews.
+3. System Design: Understanding how to architect large-scale, robust systems and choose the right tools for the job.
+4. Problem-Solving Skills: Sharpening my ability to break down complex problems and solve them efficiently.
+5. New Technologies: Exploring frameworks, tools, and technologies that are shaping the software industry.
+
